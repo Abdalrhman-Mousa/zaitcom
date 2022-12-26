@@ -18,3 +18,6 @@ const NavItem = (props) => {
 
 export default NavItem
 export {NavItemDropDown}
+
+export default NavItem
+export {NavItemDropDown}
